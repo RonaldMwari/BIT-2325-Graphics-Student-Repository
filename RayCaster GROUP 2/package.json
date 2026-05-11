@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "matplot": "^0.0.1-security",
+    "matplotlib": "^1.0.0"
+  }
+}
